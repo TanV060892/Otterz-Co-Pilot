@@ -1,5 +1,5 @@
 # Otterz Co-Pilot
-APIs for Bookeeping and Role Service Based Autorization using FastAPI 
+REST APIs for a bookkeeping product using FastAPI and MongoDB, integrating third-party services like Plaid and QuickBooks. The APIs included role-based service authorization for secure access control 
 
 # Pre-requisites
 
