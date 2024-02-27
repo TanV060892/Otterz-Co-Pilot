@@ -1,0 +1,10 @@
+boto3
+botocore
+bugsnag
+fastapi
+uvicorn
+firebase_admin
+pymongo
+pyrebase4
+python-dotenv
+pytz
